@@ -1,4 +1,4 @@
-# 
+# Enhance 7-Zip for PC | 7-Zip for Windows with smart 7-Zip for PC | 7-Zip for Windows Helper | drag-and-drop + command-line-support, the #1 helper. Includes drag-and-drop and
 
 
 
